@@ -1,0 +1,15 @@
+[files]
+extend-exclude = [
+
+]
+
+[default.extend-words]
+# entities
+wheres="wheres"
+withs="withs"
+colum="colum"
+seperator="seperator"
+# filter
+cript="cript"
+# registry
+dum="dum"
